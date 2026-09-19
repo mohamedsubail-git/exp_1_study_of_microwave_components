@@ -2,7 +2,7 @@
 
 # Experiment 1 — Study of Microwave Components and Instruments
 
----
+---    
 
 ## Aim
 
@@ -133,7 +133,6 @@ Conversions between VSWR, reflection coefficient and return loss:
 ## 10. Different Types of Antennas Available
 
 ### Conical Horn
-
 
 <img width="226" height="194" alt="image" src="https://github.com/user-attachments/assets/fcbdf4f1-5b7c-4b94-9810-82f24b11f4f8" />
 
